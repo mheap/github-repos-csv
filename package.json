@@ -14,7 +14,7 @@
   "author": "Michael Heap <m@michaelheap.com>",
   "license": "MIT",
   "dependencies": {
-    "@octokit/rest": "^17.11.0",
+    "@octokit/rest": "^19.0.13",
     "csv-writer": "^1.6.0"
   }
 }
